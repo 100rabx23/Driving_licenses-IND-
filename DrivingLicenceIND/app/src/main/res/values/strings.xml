@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Driving Licence (IND)</string>
+    <string name="enter">Enter</string>
+    <string name="saurabh">SAURABH! 😉</string>
+    <string name="hello">HEllo</string>
+    <string name="procedure_for_applying_online_driving_licence">Procedure for applying online driving licence</string>
+    <string name="todo">TODO</string>
+    <string name="next">NEXT</string>
+    <string name="apply_online">Apply Online</string>
+    <string name="traffic_signs">Traffic Signs:-</string>
+    <string name="services">Services:-</string>
+</resources>
