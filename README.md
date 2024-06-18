@@ -31,16 +31,7 @@ This project aims to simplify the process of applying for a driving license and 
 ## Screenshots
 
 ### Welcome Page
-![Welcome Page](img/img2.jpeg)
-
-### Login Screen
-![Login Screen](img/img1.jpeg)
-
-### After Signup Screen
-![After Signup Screen](img/img3.jpeg)
-
-### Main Dashboard
-![Main Dashboard](img/img4.jpeg)
+![Welcome Page](img/ss.jpeg)
 
 ## Installation
 
