@@ -37,7 +37,7 @@ This project aims to simplify the process of applying for a driving license and 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/100rabx23/Driving_licenses-IND.git
+    git clone https://github.com/100rabx23/Driving_licenses-IND-.git
     ```
 
 2. Open the project in Android Studio.
